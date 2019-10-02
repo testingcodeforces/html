@@ -1,0 +1,16 @@
+    <!doctype html>
+    <html>
+    <head>
+    <title>Login page</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+        <body >
+        <div id="avatar">
+          <img src="loginavatar.jpg"; id="avt">
+           <form ><br>&nbsp;LOGIN<br>
+            
+               </form>
+            </div>
+        </body>
+        
+    
