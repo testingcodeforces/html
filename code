@@ -8,6 +8,9 @@
         <div id="avatar">
           <img src="loginavatar.jpg"; id="avt">
            <form ><br>&nbsp;LOGIN<br>
+           <input type="username" placeholder="Enter username"     ><br><br>
+            <input type="password" placeholder="Enter password"><br><br>
+               <button id="button" type="submit" >Log in</button>
             
                </form>
             </div>
