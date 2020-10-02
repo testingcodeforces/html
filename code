@@ -6,7 +6,7 @@
     </head>
         <body >
         <div id="avatar">
-          <img src="loginavatar.jpg"; id="avt">
+          <img src="loginavatar.jpg" id="avt" alt="image didnot load">    
            <form ><br>&nbsp;LOGIN<br>
             
                </form>
